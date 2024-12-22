@@ -1,0 +1,35 @@
+Command line:
+   mux_4to1_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50625
+
+Fri Oct 18 16:45:24 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 347.542 Meg
+
+ Total Signals          : 6
+ Total Nets             : 7
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 8
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process mux_4to1_test.vhd:symulacja 
+ 
+
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 347.542 Meg
+
+Fri Oct 18 16:45:34 2024
+

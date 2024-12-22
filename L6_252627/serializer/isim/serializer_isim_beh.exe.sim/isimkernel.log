@@ -1,0 +1,29 @@
+Command line:
+   serializer_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  34661
+
+Thu Nov 28 22:00:55 2024
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 183.988 Meg
+
+ Total Signals          : 7
+ Total Nets             : 28
+ Total Signal Drivers   : 5
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 4
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 406
+Total Line Count : 15
+
+ Total Simulation Time: 0.01 sec
+
+ Current Memory Usage: 259.49 Meg
+
+Thu Nov 28 22:01:01 2024
+

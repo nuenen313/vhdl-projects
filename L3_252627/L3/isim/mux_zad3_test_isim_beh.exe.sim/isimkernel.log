@@ -1,0 +1,35 @@
+Command line:
+   mux_zad3_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50485
+
+Fri Nov  1 22:57:32 2024
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 183.886 Meg
+
+ Total Signals          : 6
+ Total Nets             : 7
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 8
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process mux_zad3_test.vhd:symulacja 
+ 
+
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 259.387 Meg
+
+Fri Nov  1 22:57:41 2024
+

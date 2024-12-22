@@ -1,0 +1,23 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/252627/L8_252627/PWM/pwm_test_isim_beh.exe" -prj "C:/VLSI/252627/L8_252627/PWM/pwm_test_beh.prj" "work.pwm_test" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/VLSI/252627/L8_252627/PWM/PWM.vhd" into library work
+Parsing VHDL file "C:/VLSI/252627/L8_252627/PWM/pwm_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160456 KB
+Fuse CPU Usage: 140 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture pwm_a of entity PWM [pwm_default]
+Compiling architecture behavior of entity pwm_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable C:/VLSI/252627/L8_252627/PWM/pwm_test_isim_beh.exe
+Fuse Memory Usage: 177224 KB
+Fuse CPU Usage: 249 ms

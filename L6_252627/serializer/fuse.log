@@ -1,0 +1,28 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/SerDesTest_isim_beh.exe -prj /home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/SerDesTest_beh.prj work.SerDesTest 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/serializer.vhd" into library work
+Parsing VHDL file "/home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/deserializer.vhd" into library work
+Parsing VHDL file "/home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/SerDes.vhd" into library work
+Parsing VHDL file "/home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/SerDesTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 84432 KB
+Fuse CPU Usage: 680 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture serializer_arch of entity serializer [serializer_default]
+Compiling architecture deserializer_arch of entity deserializer [deserializer_default]
+Compiling architecture serdes_arch of entity SerDes [serdes_default]
+Compiling architecture behavior of entity serdestest
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Built simulation executable /home/marta/Desktop/IEA/sem5/VLSI/L6_252627/serializer/SerDesTest_isim_beh.exe
+Fuse Memory Usage: 2229724 KB
+Fuse CPU Usage: 720 ms
+GCC CPU Usage: 140 ms

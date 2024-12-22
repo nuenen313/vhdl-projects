@@ -1,0 +1,35 @@
+Command line:
+   SerDesTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  47673
+
+Thu Nov 28 22:04:51 2024
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 183.984 Meg
+
+ Total Signals          : 23
+ Total Nets             : 43
+ Total Signal Drivers   : 11
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 10
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 422
+Total Line Count : 34
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process SerDesTest.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 259.486 Meg
+
+Thu Nov 28 22:05:02 2024
+

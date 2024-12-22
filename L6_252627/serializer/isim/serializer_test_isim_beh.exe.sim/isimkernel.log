@@ -1,0 +1,35 @@
+Command line:
+   serializer_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  41123
+
+Thu Nov 28 22:01:07 2024
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 183.984 Meg
+
+ Total Signals          : 11
+ Total Nets             : 28
+ Total Signal Drivers   : 8
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 6
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 407
+Total Line Count : 27
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process serializer_test.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.05 sec
+
+ Current Memory Usage: 259.486 Meg
+
+Thu Nov 28 22:01:41 2024
+
